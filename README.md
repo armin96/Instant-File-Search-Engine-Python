@@ -30,13 +30,11 @@ This project indexes file names once and provides **instant search** by filename
 4. Results are returned instantly
 
 >  File contents are **not** indexed
->
-> ├── indexer.py # Builds the file index
-├── search.py # Instant search tool
-├── files.db # SQLite database (generated)
+
+
+├── indexer.py   # Builds the file index
+├── search.py    # Instant search tool
+├── files.db     # SQLite database (generated locally)
 └── README.md
 
----
-
-## 📁 Project Structure
 
